@@ -1,3 +1,3 @@
 ﻿# silver-wolf-remote-download
 
-$ enable: False
+$ enable: True
